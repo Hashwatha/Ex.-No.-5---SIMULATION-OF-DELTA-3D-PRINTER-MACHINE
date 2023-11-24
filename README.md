@@ -1,4 +1,4 @@
-# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
+![EMPD expriment4 record2](https://github.com/Hashwatha/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150231431/728787b8-8d2a-4cf2-a17b-710bbfbaf13b)# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
 ### DATE: 
 ## AIM:
@@ -20,7 +20,8 @@
 ### 6.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## Playing with Axes
-### 1.	Move the z1-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z1-axis assembly.
+### 1.	Move the z1-axis slider or enter the value (within the given range) in the given 
+text box and press/select ENTER. Now observe the movement of the z1-axis assembly.
 ### 2.	Move the z2-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z2-axis assembly.
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
@@ -30,9 +31,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
+![EMPD expriment4 record2](https://github.com/Hashwatha/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150231431/adc18bac-a2bd-4947-881f-905315bf5186)
 
-### Name:
-### Register Number:
+### Name: M.Hashwatha
+### Register Number: 23012398
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
