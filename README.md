@@ -1,4 +1,4 @@
-![EMPD expriment4 record2](https://github.com/Hashwatha/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/150231431/728787b8-8d2a-4cf2-a17b-710bbfbaf13b)# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
+# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
 ### DATE: 
 ## AIM:
